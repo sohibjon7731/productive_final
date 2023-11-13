@@ -20,9 +20,9 @@ class UpcomingPage extends StatelessWidget {
           Container(
               margin: const EdgeInsets.all(16),
               padding: const EdgeInsets.only(
-           top: 8,
+           /* top: 8,
            bottom: 8,
-           right: 8,
+           right: 8, */
            left: 10,
               ),
               decoration: BoxDecoration(
@@ -97,9 +97,9 @@ class UpcomingPage extends StatelessWidget {
             Container(
               margin: const EdgeInsets.only(left: 16,bottom: 16,right: 16),
               padding: const EdgeInsets.only(
-                top: 8,
+                /* top: 8,
                 bottom: 8,
-                right: 8,
+                right: 8, */
                 left: 10,
               ),
               decoration: BoxDecoration(
@@ -200,9 +200,9 @@ class UpcomingPage extends StatelessWidget {
           Container(
             margin: const EdgeInsets.all(16),
             padding: const EdgeInsets.only(
-              top: 8,
+              /* top: 8,
               bottom: 8,
-              right: 8,
+              right: 8, */
               left: 10,
             ),
             decoration: BoxDecoration(
